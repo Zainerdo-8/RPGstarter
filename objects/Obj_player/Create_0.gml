@@ -7,3 +7,7 @@ hp_total = hp;
 damage = 1;
 
 facing = 0;
+
+level = 1;
+xp = 0;
+xp_require = 100;

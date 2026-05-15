@@ -1,6 +1,7 @@
 if (alarm[1] >= 0)
 {
-    target_x = 
+    target_x = x + kb_x;
+    target_y = y + kb_y;
 }
 
 var _hor = clamp(target_x - x, -1, 1);
